@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header table{
+    border-spacing: 12px;
+    width: 100%;
+    border: 2px skyblue;
+    padding: 12px;
+    padding-left: 22px;
+    background-color: skyblue;
+}
+
+.header table a{
+    text-decoration: none;
+}
+.body h2{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 50px;
+}
+
+.body form{
+    padding-left: 50px;
+}
+
+.body table{
+    width: 100%;
+    border: 2px skyblue;
+}
+
+.header table a{
+    text-decoration: none;
+}
+
+.body h2{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 50px;
+}
+
+.body form{
+    padding-left: 50px;
+}
+
+.body table{
+    width: 100%;
+    border: 2px skyblue;
+}
+
+.body th{
+    text-align: center;
+    padding: 18px;
+}
+
+.body td{
+    padding: 18px;
+}
+
+.body tr:nth-child(even){
+    background-color: skyblue;
+}

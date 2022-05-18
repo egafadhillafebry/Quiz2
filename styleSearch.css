@@ -1,0 +1,32 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+.header table{
+    border-spacing: 10px;
+    width: 100%;
+    border:1px skyblue;
+    padding: 10px;
+    padding-left: 20px;
+    background-color: aliceblue;
+}
+
+.header table a{
+    text-decoration: none;
+}
+
+.body h2{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 50px;
+}
+
+.body table{
+    padding-left: 30px;
+    border-spacing: 20px;
+    font-size: 25px;
+}
+
+.body form{
+    padding-left: 60px;
+}
